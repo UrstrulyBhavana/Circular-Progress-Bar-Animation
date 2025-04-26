@@ -1,5 +1,11 @@
 # 🔄 Progress Bar with Circular Animation
 
+## Demo.gif
+
+![Image](https://github.com/user-attachments/assets/40e32486-c550-4733-8dc6-9bb6d1810fc6)
+
+---
+
 A visually appealing **circular progress bar** built with HTML, CSS, and JavaScript. The bar dynamically animates to show progress in a smooth and modern design, making it perfect for loading screens, skill indicators, or performance metrics.
 
 ---
@@ -50,6 +56,25 @@ setInterval(() => {
 }, 30);
 ```
 
-## Demo.gif
+🙋‍♀️ Author
+Linga Bhavana – Frontend Developer
 
-![Image](https://github.com/user-attachments/assets/40e32486-c550-4733-8dc6-9bb6d1810fc6)
+GitHub | urstrulybhavana1432@gmail.com
+
+---
+
+
+📬 **Contact**
+
+For questions or suggestions, feel free to reach out:
+
+- 📧 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
+- 🐙 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)
+
+
+---
+
+📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
